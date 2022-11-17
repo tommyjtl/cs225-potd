@@ -1,6 +1,6 @@
 # cs225-potd
 
-"Problem of the Day" collection.
+Some of the problem from the POTD collection from CS 225 at UIUC.
 
 ```bash
 $ clear && make && ./main
